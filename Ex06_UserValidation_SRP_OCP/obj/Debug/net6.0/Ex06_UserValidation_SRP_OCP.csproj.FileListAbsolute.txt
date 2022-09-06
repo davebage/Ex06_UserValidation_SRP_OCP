@@ -1,0 +1,11 @@
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\bin\Debug\net6.0\Ex06_UserValidation_SRP_OCP.deps.json
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\bin\Debug\net6.0\Ex06_UserValidation_SRP_OCP.dll
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\bin\Debug\net6.0\ref\Ex06_UserValidation_SRP_OCP.dll
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\bin\Debug\net6.0\Ex06_UserValidation_SRP_OCP.pdb
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\obj\Debug\net6.0\Ex06_UserValidation_SRP_OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\obj\Debug\net6.0\Ex06_UserValidation_SRP_OCP.AssemblyInfoInputs.cache
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\obj\Debug\net6.0\Ex06_UserValidation_SRP_OCP.AssemblyInfo.cs
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\obj\Debug\net6.0\Ex06_UserValidation_SRP_OCP.csproj.CoreCompileInputs.cache
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\obj\Debug\net6.0\Ex06_UserValidation_SRP_OCP.dll
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\obj\Debug\net6.0\ref\Ex06_UserValidation_SRP_OCP.dll
+C:\Users\Codurance_Dave\projects\CraftingCode\Ex06_UserValidation_SRP_OCP\Ex06_UserValidation_SRP_OCP\obj\Debug\net6.0\Ex06_UserValidation_SRP_OCP.pdb

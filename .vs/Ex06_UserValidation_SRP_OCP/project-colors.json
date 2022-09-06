@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "254db71c-6e9e-48f0-90f2-f408527ff1ff": {
+      "ProjectGuid": "254db71c-6e9e-48f0-90f2-f408527ff1ff",
+      "DisplayName": "Ex06_UserValidation_SRP_OCP",
+      "ColorIndex": 0
+    },
+    "2360645b-d576-4f0b-82ed-dc36cddd6a7b": {
+      "ProjectGuid": "2360645b-d576-4f0b-82ed-dc36cddd6a7b",
+      "DisplayName": "Ex06_Unit_Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

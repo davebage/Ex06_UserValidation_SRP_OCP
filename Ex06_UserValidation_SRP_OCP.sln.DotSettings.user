@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a5552930_002De1fd_002D4abd_002D9d3b_002Dc9d3a24bbead/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Validate_User_Successfully_when_requirements_met" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.User_Validator_Should.User_Validator_Should_Return_True_When_Valid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.Email_Validator_Should.RejectInvalidEmailAddress&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.Email_Validator_Should&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.Ex06_Acceptance_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.User_Respository_Should.Save_A_User&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.User_Respository_Should&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
