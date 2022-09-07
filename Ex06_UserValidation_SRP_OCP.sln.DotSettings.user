@@ -7,5 +7,8 @@
     &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.Ex06_Acceptance_Test&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.User_Respository_Should.Save_A_User&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.User_Respository_Should&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.DateOfBirth_Validator_Should.Return_False_When_User_Under_Eighteen&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.DateOfBirth_Validator_Should.Return_True_When_User_Eighteen_Or_Over&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2360645B-D576-4F0B-82ED-DC36CDDD6A7B::net6.0::Ex06_Unit_Tests.DateOfBirth_Validator_Should&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

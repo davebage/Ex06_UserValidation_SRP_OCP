@@ -17,13 +17,13 @@ namespace Ex06_Unit_Tests
         [SetUp]
         public void SetUp()
         {
-            _emailValidator = new EmailValidator();
+            _emailValidator = new UserEmailValidator();
         }
 
         [Test]
         public void RejectInvalidEmailAddress()
         {
-            User _user = new User("Dave", "Bage", "david.bage@codurance..com");
+            User _user = new User { EmailAddress = "david.bage@codurance..com" };
 
             // Act
             var success = _emailValidator.Validate(_user);
@@ -34,7 +34,7 @@ namespace Ex06_Unit_Tests
         [Test]
         public void AcceptValidEmailAddress()
         {
-            User _user = new User("Dave", "Bage", "david.bage@codurance.com");
+            User _user = new User { EmailAddress = "david.bage@codurance.com" };
 
             // Act
             var success = _emailValidator.Validate(_user);

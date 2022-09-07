@@ -5,12 +5,10 @@ public class User
     public string FirstName;
     public string LastName;
     public string EmailAddress;
+    public DateTime DateOfBirth;
 
-    public User(string firstName, string lastName, string emailAddress)
+    public User()
     {
-        this.FirstName = firstName;
-        this.LastName = lastName;
-        this.EmailAddress = emailAddress;
     }
 
     public override bool Equals(object? obj)
@@ -21,5 +19,10 @@ public class User
 
         return other.EmailAddress == this.EmailAddress && other.FirstName == this.FirstName &&
                other.FirstName == this.FirstName;
+    }
+
+    public override int GetHashCode()
+    {
+        return base.GetHashCode();
     }
 }

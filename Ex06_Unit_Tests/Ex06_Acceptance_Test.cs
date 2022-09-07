@@ -16,8 +16,8 @@ public class Ex06_Acceptance_Test
     public void SetUp()
     {
         _userRepository = new UserRepository();
-        _user = new User("Dave", "Bage", "david.bage@codurance.com");
-        validators = new List<IValidator> { new UserValidator(), new EmailValidator()  };
+        _user = new User { FirstName =  "Dave", LastName = "Bage", EmailAddress = "david.bage@codurance.com" };
+        validators = new List<IValidator> { new UserValidator(), new UserEmailValidator(), new UserDateOfBirthValidator()  };
     }
 
     [Test]

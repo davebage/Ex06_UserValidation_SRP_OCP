@@ -16,7 +16,7 @@ namespace Ex06_Unit_Tests
         [Test]
         public void User_Validator_Should_Return_True_When_Valid()
         {
-            User _user = new User("Dave", "Bage", "david.bage@codurance.com");
+            User _user = new User { FirstName = "Dave", LastName = "Bage", EmailAddress = "david.bage@codurance.com" };
 
             _userValidator.Validate(_user);
         }
